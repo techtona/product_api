@@ -1,0 +1,22 @@
+{
+'product' : [{"id":1,"nama":"Beer - Creemore","harga":"$18.04"},
+{"id":2,"nama":"Jicama","harga":"$17.73"},
+{"id":3,"nama":"Tofu - Firm","harga":"$13.35"},
+{"id":4,"nama":"Basil - Seedlings Cookstown","harga":"$23.19"},
+{"id":5,"nama":"Soup - Tomato Mush. Florentine","harga":"$23.40"},
+{"id":6,"nama":"Wine - Red, Pelee Island Merlot","harga":"$20.87"},
+{"id":7,"nama":"Sponge Cake Mix - Vanilla","harga":"$14.25"},
+{"id":8,"nama":"Parsley - Fresh","harga":"$8.59"},
+{"id":9,"nama":"Pasta - Penne Primavera, Single","harga":"$21.58"},
+{"id":10,"nama":"Wine - Zinfandel Rosenblum","harga":"$16.73"},
+{"id":11,"nama":"Ice Cream - Chocolate","harga":"$5.71"},
+{"id":12,"nama":"Coke - Classic, 355 Ml","harga":"$11.94"},
+{"id":13,"nama":"Flour - Corn, Fine","harga":"$19.23"},
+{"id":14,"nama":"Kahlua","harga":"$18.50"},
+{"id":15,"nama":"Bar Bran Honey Nut","harga":"$4.79"},
+{"id":16,"nama":"Cookie Choc","harga":"$6.66"},
+{"id":17,"nama":"Muffin - Mix - Strawberry Rhubarb","harga":"$13.92"},
+{"id":18,"nama":"Thyme - Dried","harga":"$22.32"},
+{"id":19,"nama":"Pate Pans Yellow","harga":"$4.17"},
+{"id":20,"nama":"Soup - Campbells Tomato Ravioli","harga":"$23.87"}]
+}
